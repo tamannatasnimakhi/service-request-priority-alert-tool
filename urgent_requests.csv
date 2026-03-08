@@ -1,0 +1,5 @@
+Request_ID,Date_Received,Customer_Name,Company,Product_or_Part,Issue_Type,Priority,Assigned_To,Status,Next_Followup_Date,Notes
+R001,2026-03-01,Lars Jensen,WindPower A/S,Sensor Module,Replacement,High,Support,Price Requested,2026-03-05,urgent
+R003,2026-03-02,Johan Petersen,GreenGrid,Control Panel,Fault Report,High,Technician,Under Review,2026-03-06,
+R006,2026-03-04,Sofie Rasmussen,PowerFlow,Sensor Module,Replacement,High,Technician,Waiting Technician,2026-03-08,
+R008,2026-03-05,Mikkel Sørensen,VoltEnergy,Power Relay,Fault Report,High,Technician,Under Review,2026-03-09,
